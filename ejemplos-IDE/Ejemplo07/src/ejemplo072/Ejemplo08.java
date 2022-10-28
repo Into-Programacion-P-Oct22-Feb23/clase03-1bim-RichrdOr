@@ -22,10 +22,10 @@ public class Ejemplo08 {
         boolean c = false || true;
         boolean d = false || false;
         
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
+        System.out.println(a); //false
+        System.out.println(b); //true
+        System.out.println(c); // false
+        System.out.println(d); //false
         
     }
     
