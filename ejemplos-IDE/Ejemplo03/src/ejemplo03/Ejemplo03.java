@@ -45,6 +45,15 @@ public class Ejemplo03 {
         
         boolean variable9 = false;
         boolean variable10 = true;
+    
+       /*A
+        B
+        C
+        D
+        E
+        F
+        */
+      
     }
     
 }
